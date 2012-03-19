@@ -1,9 +1,10 @@
+.. highlight:: bash
 
-Required ::
+Requirements ::
 
     $ gem install gstore
 
-_`Configuration file <https://gist.github.com/2045536>` ::
+`Configuration <https://gist.github.com/2045536>`_ ::
 
     <match pattern>
       type gstore
@@ -19,4 +20,3 @@ _`Configuration file <https://gist.github.com/2045536>` ::
       utc
     </match>
 
-https://gist.github.com/2045536
