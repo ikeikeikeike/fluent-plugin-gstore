@@ -20,3 +20,7 @@ Requirements ::
       utc
     </match>
 
+LICENSE
+========
+
+Apache License, Version 2.0
