@@ -11,7 +11,7 @@ Installation
 
 Configuration
 
-```java
+```ruby
 <match pattern>
   type gstore
 
