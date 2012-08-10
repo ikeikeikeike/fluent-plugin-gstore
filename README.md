@@ -11,7 +11,7 @@ Installation
 
 Configuration
 
-```ruby
+```java
 <match pattern>
   type gstore
 
@@ -27,12 +27,14 @@ Configuration
 </match>
 ```
 
-Requirements
-=============
+
+Setup
+=====
 
 ```bash
-$ gem install gstore
+$ gem install fluent-plugin-gstore
 ```
+
 
 LICENSE
 ========
