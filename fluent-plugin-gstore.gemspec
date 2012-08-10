@@ -23,6 +23,7 @@ Gem::Specification.new do |s|
     "README.md",
     "Rakefile",
     "VERSION",
+    "fluent-plugin-gstore.gemspec",
     "lib/fluent/plugin/out_gstore.rb",
     "test/helper.rb",
     "test/test_fluent-plugin-gstore.rb"
