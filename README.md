@@ -1,6 +1,6 @@
 
 
-Google Cloud Storage output plugin for the Fluent.
+Google Cloud Storage output plugin for the [Fluentd](http://fluentd.org).
 ====================================================
 
 [Google Cloud Storage](http://cloud.google.com/products/cloud-storage.html) output plugin for the [Fluent](http://fluentd.org/).
